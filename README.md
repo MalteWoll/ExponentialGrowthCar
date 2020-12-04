@@ -1,5 +1,5 @@
 # ExponentialGrowthCar
-Displays exponential growth by letting a car drive along the graph, gaining speed when the graph gets steeper.
+Displays exponential growth by letting a car drive along a graph, gaining speed when the graph gets steeper.
 
 # Tools and Software used
 - Developed on Unity 2019.3.12f1
